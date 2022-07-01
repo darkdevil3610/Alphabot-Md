@@ -817,32 +817,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}nomorhoki 887435047326
 ├ ${prefix}artimimpi [query]
 ├ ${prefix}artinama [query]
-├ ${prefix}ramaljodoh
-├ ${prefix}ramaljodohbali
-├ ${prefix}suamiistri
-├ ${prefix}ramalcinta
-├ ${prefix}cocoknama
-├ ${prefix}pasangan
-├ ${prefix}jadiannikah
-├ ${prefix}sifatusaha
-├ ${prefix}rezeki
-├ ${prefix}pekerjaan
-├ ${prefix}nasib
-├ ${prefix}penyakit
-├ ${prefix}tarot
-├ ${prefix}fengshui
-├ ${prefix}haribaik
-├ ${prefix}harisangar
-├ ${prefix}harisial
-├ ${prefix}nagahari
-├ ${prefix}arahrezeki
-├ ${prefix}peruntungan
-├ ${prefix}weton
-├ ${prefix}karakter
-├ ${prefix}keberuntungan
-├ ${prefix}memancing
-├ ${prefix}masasubur
-├ ${prefix}zodiak 
 ╰❒ ${prefix}shio [query]
 
 ╭─❒ 「 Random Anime 」
@@ -880,82 +854,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 ╭─❒ 「 Nsfw & Sfw 」
 ├ ${prefix}ahegao
-├ ${prefix}ass
-├ ${prefix}bdsm
-├ ${prefix}blowjob
-├ ${prefix}cuckold
-├ ${prefix}cum
-├ ${prefix}ero
-├ ${prefix}femdom
-├ ${prefix}foot
-├ ${prefix}gangbang
-├ ${prefix}glasses
-├ ${prefix}jahy
-├ ${prefix}manga
-├ ${prefix}masturbation
-├ ${prefix}neko
-├ ${prefix}orgy
-├ ${prefix}panties
-├ ${prefix}pussy
-├ ${prefix}tentacles
-├ ${prefix}thighs
-├ ${prefix}yuri
-├ ${prefix}feet
-├ ${prefix}lewdkemo
-├ ${prefix}woof
-├ ${prefix}gasm
-├ ${prefix}solo
-├ ${prefix}8ball
-├ ${prefix}goose
-├ ${prefix}avatar
-├ ${prefix}hololewd
-├ ${prefix}gecg
-├ ${prefix}holo
-├ ${prefix}fox_girl
-├ ${prefix}tits
-├ ${prefix}eroyuri
-├ ${prefix}holoyero
-├ ${prefix}lizard
-├ ${prefix}keta
-├ ${prefix}eron
-├ ${prefix}erok
-├ ${prefix}kemonomimi
-├ ${prefix}cum_jpg
-├ ${prefix}nsfw_avatar
-├ ${prefix}erofeet
-├ ${prefix}meow
-├ ${prefix}wallpaper
-├ ${prefix}waifu
-├ ${prefix}trap
-├ ${prefix}lewd
-├ ${prefix}pussy_jpg
-├ ${prefix}futanari
-├ ${prefix}lewdk
-├ ${prefix}solog
-├ ${prefix}smug
-├ ${prefix}cum
-├ ${prefix}slap
-├ ${prefix}les
-├ ${prefix}erokemo
-├ ${prefix}bj
-├ ${prefix}pwankg
-├ ${prefix}pat
-├ ${prefix}poke
-├ ${prefix}feed
-├ ${prefix}nsfw_neko_gif
-├ ${prefix}pussy
-├ ${prefix}feetg
-├ ${prefix}baka
-├ ${prefix}hug
-├ ${prefix}kiss
-├ ${prefix}tickle
-├ ${prefix}spank
-├ ${prefix}kuni
-├ ${prefix}classic
-├ ${prefix}boobs
-├ ${prefix}anal
-├ ${prefix}ngif
-├ ${prefix}cuddle
+├ ${prefix}
 ╰❒ ${prefix}zettai
 
 ╭─❒ 「 Ephoto360 Menu 」
@@ -1244,60 +1143,18 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}chika
 ├ ${prefix}delvira
 ├ ${prefix}ayu
-├ ${prefix}bunga
-├ ${prefix}aura
-├ ${prefix}nisa
-├ ${prefix}ziva
-├ ${prefix}yana
-├ ${prefix}viona
-├ ${prefix}syania
-├ ${prefix}riri
-├ ${prefix}syifa
-├ ${prefix}mama_gina
-├ ${prefix}alcakenya
-├ ${prefix}mangayutri
-├ ${prefix}rikagusriani
-├ ${prefix}asupan
-├ ${prefix}bocil
-├ ${prefix}geayubi
-├ ${prefix}santuy
-├ ${prefix}ukhty
 ╰❒ ${prefix}syifa
 
 ╭─❒ 「 Telegram Sticker 」
 ├ ${prefix}awoawo
 ├ ${prefix}benedict
 ├ ${prefix}chat
-├ ${prefix}dbfly
-├ ${prefix}dino_kuning
-├ ${prefix}doge
-├ ${prefix}gojosatoru
-├ ${prefix}hope_boy
-├ ${prefix}jisoo
-├ ${prefix}kr_robot
-├ ${prefix}kucing
-├ ${prefix}lonte
-├ ${prefix}manusia_lidi
-├ ${prefix}menjamet
-├ ${prefix}meow
-├ ${prefix}nicholas
-├ ${prefix}patrick
-├ ${prefix}popoci
-├ ${prefix}sponsbob
-├ ${prefix}kawan_sponsbob
 ╰❒ ${prefix}tyni
 
 ╭─❒ 「 Random Cewe 」
 ├ ${prefix}china 
 ├ ${prefix}indonesia 
 ├ ${prefix}malaysia 
-├ ${prefix}thailand 
-├ ${prefix}korea 
-├ ${prefix}japan 
-├ ${prefix}vietnam 
-├ ${prefix}jenni 
-├ ${prefix}jiso 
-├ ${prefix}lisa  
 ╰❒ ${prefix}rose
 
 ╭─❒ 「 Logo Menu 」
@@ -1389,78 +1246,13 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}sound8
 ├ ${prefix}sound9
 ├ ${prefix}sound10
-├ ${prefix}sound11
-├ ${prefix}sound12
-├ ${prefix}sound13
-├ ${prefix}sound14
-├ ${prefix}sound15
-├ ${prefix}sound16
-├ ${prefix}sound17
-├ ${prefix}sound18 
-├ ${prefix}sound19
-├ ${prefix}sound20
-├ ${prefix}sound21
-├ ${prefix}sound22
-├ ${prefix}sound23
-├ ${prefix}sound24
-├ ${prefix}sound25
-├ ${prefix}sound26
-├ ${prefix}sound27
-├ ${prefix}sound28
-├ ${prefix}sound29
-├ ${prefix}sound30
-├ ${prefix}sound31
-├ ${prefix}sound32
-├ ${prefix}sound33
-├ ${prefix}sound34
-├ ${prefix}sound35
-├ ${prefix}sound36
-├ ${prefix}sound37
-├ ${prefix}sound38
-├ ${prefix}sound39
-├ ${prefix}sound40
-├ ${prefix}sound41
-├ ${prefix}sound42
-├ ${prefix}sound43
-├ ${prefix}sound44
-├ ${prefix}sound45
-├ ${prefix}sound46
-├ ${prefix}sound47
-├ ${prefix}sound48
-├ ${prefix}sound49
-├ ${prefix}sound50
-├ ${prefix}sound51
-├ ${prefix}sound52
-├ ${prefix}sound53
-├ ${prefix}sound54
-├ ${prefix}sound55
-├ ${prefix}sound56
-├ ${prefix}sound57
-├ ${prefix}sound58
-├ ${prefix}sound59
-├ ${prefix}sound60
-├ ${prefix}sound61
-├ ${prefix}sound62
-├ ${prefix}sound63
-├ ${prefix}sound64
-├ ${prefix}sound65
-├ ${prefix}sound66
-├ ${prefix}sound67
-├ ${prefix}sound68
-├ ${prefix}sound69
-╰❒ ${prefix}sound70
+╰❒ ${prefix}
 
 ╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ 𝐺𝛩𝑈𝑅𝛥𝛻
+├ dark_devil_3609
 ╰❒ And All Support
     `
 }
@@ -1509,7 +1301,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode : https://instagram.com/dark_devil_3609-
 `
 }
 exports.tos = (ownernomer) => {
